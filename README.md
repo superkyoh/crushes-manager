@@ -1,6 +1,6 @@
 # CRUSHES MANAGER
 
-Este projeto foi construído para praticar conceitos sobre consumir uma API REST com React.
+Este projeto foi construído para praticar conceitos sobre consumir uma API REST(https://github.com/superkyoh/crushes-manager-api) com React.
 
 São utilizadas algumas bibliotecas como ReactStrap para ajudar na parte visual, e axios para interação da aplicação com a API.
 
