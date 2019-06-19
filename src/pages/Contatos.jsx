@@ -34,7 +34,7 @@ export default class Contatos extends Component {
           </Col>
         </Row>
         <hr/>
-          <h1 className="text-center">Agenda de crushs</h1>
+          <h1 className="text-center">Agenda de Crushes</h1>
         <Row>
             {
              crushList.result && crushList.result.length > 0 ? (
